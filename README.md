@@ -1,7 +1,7 @@
 <h3 align="center">Описание проекта</h3>
 <p align="center">
 Проект выполнен в рамках курса <strong>Karpov.Courses</strong> и посвящён анализу ключевых бизнес-метрик розничной сети с использованием SQL и визуализаций в Redash. Основная задача — построение аналитических отчётов по данным из базы <strong>PostgreSQL</strong> с акцентом на оценку эффективности бизнеса и экономики продукта.
-В рамках проекта рассчитывались и визуализировались следующие показатели:Retention Rate (RR), Customer Acquisition Cost (CAC) и Return on Investment (ROI) и другие ключевые метрики. Для анализа применялись SQL-запросы различной сложности, включая LEFT/RIGHT/INNER JOIN, оконные функции, агрегаты и CTE.
+В рамках проекта рассчитывались и визуализировались следующие показатели: <strong>Retention Rate (RR)</strong>, <strong>Customer Acquisition Cost (CAC)</strong>, <strong>Return on Investment (ROI)</strong> и другие ключевые метрики. Для анализа применялись SQL-запросы различной сложности, включая LEFT/RIGHT/INNER JOIN, оконные функции, агрегаты и CTE.
 </p>
 
 
